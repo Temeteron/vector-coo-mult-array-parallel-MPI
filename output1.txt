@@ -1,0 +1,53 @@
+mpirun prog.out gre__512.mtx
+%%MatrixMarket matrix coordinate real general
+512 512 2192
+0 0                 0.75
+1 0                 0.25
+1 1                  0.5
+2 1                 0.25
+3 1                 0.25
+2 2                  0.5
+4 2                 0.25
+5 2                 0.25
+3 3                  0.5
+5 3                 0.25
+Computational Time in process is: 0.000033 seconds.
+%%MatrixMarket matrix coordinate real general
+512 512 2192
+0 0                 0.75
+1 0                 0.25
+1 1                  0.5
+2 1                 0.25
+3 1                 0.25
+2 2                  0.5
+4 2                 0.25
+5 2                 0.25
+3 3                  0.5
+5 3                 0.25
+Computational Time in process is: 0.000036 seconds.
+%%MatrixMarket matrix coordinate real general
+512 512 2192
+0 0                 0.75
+1 0                 0.25
+1 1                  0.5
+2 1                 0.25
+3 1                 0.25
+2 2                  0.5
+4 2                 0.25
+5 2                 0.25
+3 3                  0.5
+5 3                 0.25
+%%MatrixMarket matrix coordinate real general
+512 512 2192
+0 0                 0.75
+1 0                 0.25
+1 1                  0.5
+2 1                 0.25
+3 1                 0.25
+2 2                  0.5
+4 2                 0.25
+5 2                 0.25
+3 3                  0.5
+5 3                 0.25
+Computational Time in process is: 0.000037 seconds.
+Computational Time in process is: 0.000047 seconds.

@@ -21,7 +21,7 @@ $(TARGET):
 	$(CC) -o mmio.o -c mmio.c
 	ar rc libmmio.a mmio.o
 	ranlib libmmio.a
-	mpicc mult_vector_MPI.c -o prog.out -L. -lmmio
+	mpicc nzCOO.c -o prog.out -L. -lmmio -lm
 
 run:
 	mpirun ${PROGRAM_NAME} ${ARGS}
